@@ -1,3 +1,2 @@
 # influenza-analysis-staffing
-GameCo is a new video game company that wants to use its business data to inform the development of new games. The requirement is to perform a descriptive analysis
-of a video game data set to gain a better understanding of how GameCo's new games might fare in the market.
+Hospitals and clinics need additional temporary staff to adequately treat vulnerable elderly and young populations who develop serious flu complications and end up in the hospital during the Influenza season. This is an analysis of the USA influenza season in order to understand the who, when, and where of the disease in order to provide sufficient healthcare providers more efficiently and effectively.
